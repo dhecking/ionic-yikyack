@@ -1,0 +1,8 @@
+{
+  "name": "yikyack",
+  "app_id": "89977fba",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
